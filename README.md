@@ -1,2 +1,2 @@
 # Data Science Capstone
-IBM Data Science
+IBM Data Science Project
